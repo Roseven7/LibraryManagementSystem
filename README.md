@@ -20,8 +20,22 @@ Run in terminal:
 python3 main.py
 ```
 
-
 ## Usage
+
+Buttons:
+
+**Add New** - adds a new record to the database based on the given values ​​in the edit fields 
+
+**Display** - displays all records from the database
+
+**Clear** - clears the values ​​entered in the edit fields
+
+**Delete** - deletes the record selected in the table
+
+**Search** - displays records that match the values ​​entered in the edit fields
+
+**Update** - updates the record selected in the table with given values from the edit fields 
+
 
 ![My image](https://github.com/Roseven7/LibraryManagementSystem/blob/master/screen.png)
 
