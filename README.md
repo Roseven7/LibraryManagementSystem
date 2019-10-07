@@ -23,11 +23,11 @@ python3 main.py
 
 ## Usage
 
-![My image](username.github.com/repository/img/image.jpg)
+![My image](https://github.com/Roseven7/LibraryManagementSystem/blob/master/screen.png)
 
 ## Author
 
 Sylwia Wrona
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+MIT
